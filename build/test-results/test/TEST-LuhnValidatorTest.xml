@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnValidatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2019-01-13T13:43:59" hostname="MSI" time="0.004">
+  <properties/>
+  <testcase name="testSimpleValidSINReversedRemainsValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testValidCanadianSINValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringsWithNonDigitsInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testMoreThanSingleZeroValid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringContainingSymbolsInvalidJavaTrackSpecific" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringsContainingNonDigitInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSimpleValidSINReversedBecomesInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleZeroIsInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testInvalidCanadianSINInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringContainingPunctuationInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testDigitNineConvertedToOutputNine" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleSpaceWithZeroInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testSingleDigitStringInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <testcase name="testStringContainingSymbolsInvalid" classname="LuhnValidatorTest" time="0.001"/>
+  <testcase name="testInvalidCreditCardInvalid" classname="LuhnValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
